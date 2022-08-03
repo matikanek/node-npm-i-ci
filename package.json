@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/matikanek/node-npm-i-ci/issues"
   },
-  "homepage": "https://github.com/matikanek/node-npm-i-ci#readme"
+  "homepage": "https://github.com/matikanek/node-npm-i-ci#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
