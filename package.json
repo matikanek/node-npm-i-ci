@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/matikanek/node-npm-i-ci#readme",
   "dependencies": {
+    "@ngrx/store": "^14.0.1",
     "express": "~4.16.1",
     "lint": "^0.7.0",
     "nodemon": "^2.0.18",
-    "@ngrx/store": "^14.0.1"
+    "webpack": "^5.74.0"
   }
 }
