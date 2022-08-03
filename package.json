@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/matikanek/node-npm-i-ci#readme",
   "dependencies": {
+    "debug": "^4.3.4",
     "eslint": "^8.21.0"
   }
 }
